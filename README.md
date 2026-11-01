@@ -2,9 +2,9 @@
 
 ## Student Details
 
-- **Name:** LATCHIPATRUNI CHARAN TEJA
-- **Registration Number:** 252U1R8045
-- **Section:** CSE(QE)-2B - 204
+- **Name:** DEVARASHETTY MANIVARDHAN
+- **Registration Number:** 252U1R5037
+- **Section:** CSE(AI & DE)-2B - 106
 
 **Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
 
