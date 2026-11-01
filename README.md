@@ -6,7 +6,7 @@
 - **Registration Number:** 252U1R5037
 - **Section:** CSE(AI & DE)-2B - 106
 
-**Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
+**Deployed link:** 
 
 ## Objective
 
